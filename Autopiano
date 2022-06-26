@@ -1,0 +1,124 @@
+-- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
+
+shared.stop = true -- stops the player at any time if true
+-- CONFIG:
+shared.ftime = 9*60 + 25 -- time in seconds for the song to finish (extended by |)
+shared.delay = nil -- delay overides the ftime
+shared.tempo = nil -- tempo overides the delay
+
+shared.scr = [6ud] - - [Si] - - 
+[ud] - - [Sg] - -j 
+[ud] - - [Si] - - 
+[ud] - - [9z]-d-[8l]-s-[^J]-P-[6j]-p-
+[yipd] 9 [qey] 9 [S6ipg] [qyd] [Te] [qyd] 
+[yipd] [9pj] [qeypj] [9pdgj] [6pdgj] q [Teig] [quf] 
+[yipd] 9 [qe] 9 [6ipdg] [qyd] [Te] [qyd] 
+[^yipd] [^pj] [E9qpdgj] [^pdgj] [8dz] [tsl]-w-[PJ0]-8-[5pj]-3-
+[yip] 9 [qey] 9 [S6ipg] [qyd] [Te] [qyipd] 
+[yipd] [9pj] [qepj] [9pdgj] [6pdgj] q [etig] [quf] 
+[^yipd] ^ [E9qdz] ^ [8yod] 8 [0wtdhz] 8 
+[qyipd] [9dz]-6-[4dz]--[dz] [9dgjz] [8sl] [^PJ] [6dz]-[fx]-
+[gc] [9fx] [qeyhv] [9gc] [6jb] [qhv] [TJe] [qjb] 
+[hv] [9jb] [qeygc] [9fx] [6gc] [qjb] [Tefc] [qjb] 
+[dz] [9pj] [qeydz] [9fx] [6gc] [qpj] [Tefx] [qpj] 
+[9dz] [9pj] [qeydz] [9pj] [6edz] [sl] [Ej] e 
+[yc] p [iv] [px] e [ic] T [iz] 
+y [px] i [Jp] e [ij] T [ij] 
+[yc] p [iv] [px] e [ic] T [iz] 
+E i p i t [os] [Puj] p 
+[yc] p [iv] [px] e [ic] T [iz] 
+y [px] i [Jp] e [ij] T i 
+[yipg] [yip] j [Teif] [Tei] [ij] e [9yipd] |
+[(Z]-D-[*L]-S-[7k]-a-[^J]-P-
+[YID] ( [QE] ( [IPG] [*YID] [Wq] [*YD] 
+[YIPD] [PDGJ7] [QPDGJr] [PDGJ7] [^PSGJ] ^ [QEIG] [^ig] 
+[%YIDa] % [(r] % [$IPDG] [(YIPD] [QE] [(YD] 
+[YOD4a] [PDJqg] [WYPDJrg] [Jqag] [^J]-k-[^H]-J-[EGq]-H-[^g]-G-
+[YID] ( [QE] ( [IPDG] [*YID] [Wq] [*YD] 
+[YIPD] [PDGJ7] [QPDGJr] [PDGJ7] [^PSGJ] ^ [QEIG] [^ig] 
+[%YIDa] % [(DGZrk] % [^YOPD] ^ [EDHJZq] ^ 
+[YIPD] [^EDGJZ] [DGJZ7r] [%WDGJZ] [^EDGJZ] [$Q] [%WPDGJ] [4q] 
+[GJZC] ( [QE] [(gc]-[DZ]-[HLgc] * [WSHLqg] * 
+[DGJZ7] 7 [Qr] [SL7]-[ak]-[^SL] ^ [QEPSGJ] ^ 
+[%DGak] % [(r] [%PJ]-[OH]-[$PJ] ( [QEIG] ( 
+[O4iag] q [WYPJr] q [OHdg] [^IG] [4ig] [IG] 
+[YIPD] [(D]-P-[QEI]-Y-[(I]-P-[ig]-S-[*O]-i-[WPJq]-g-[*S]-P-
+[OH7]-D-a-O-[QGCr]-Z-[J7]-G-[^HLgc] [^DZ] [ESLq] [^PJ] 
+[%DZ]-k-[%G]-D-[(SLr]-k-[%G]-S-[^PJ]-g-[^S]-P-[ESLq]-H-[^g]-S-
+[(DGJZ] (-Q-[EZ]-[(J]-[QG]-[ED]-[YJ]-[EG]-[QD]-[(P]-[^D]-[$G]-J-L-
+[DZ7] 7 [QDGJZr] 7 [*PJ] [*OH] [WIGq] * 
+[(ig]-S-[(P]-i-[QEP]-i-[(P]-S-[^IPSG] ^ [EPSqig] [^J]-L-
+[DZ7] 7 [QZCr] 7 [*DGZ] * [WTZV] * 
+[(DGJZ] [(ZC] [YZC]-E-[QZC]-(-[^ZC]-$---- -
+[3ud] [ud] [Si] [Si] [ud] [ud] [Si] [S3i] 
+[3ud] [ud] [Si] [Si] [udfj] [ud] [Si] [Si] 
+[3ud] [ud] [Si] [Si] [ud] [ud] [Si] [S3i] 
+[3ud] [ud] [Si] [Si] [udfj] [ud] [Si] [Si] 
+[3ud] [ud] [Si] [Si] [ud] [ud] [Si] [S3i] 
+[3ud] [ud] [Si] [Si] [udfj] [ud] [Si] [Si] 
+[^EPJ] [6epj] [5woh] [6epj] [5woh] [4qig] [5woh] [4qig] 
+[30uf] [4qig] [30uf] [9yd] [30uf] [*TS] [9yd] 
+y y [ij] [uz] b [tz] j [yz] 
+b z j z b z j z 
+[^Ey] y [ij] [uz] b [tz] j [yz] 
+b z j z b z j z 
+[5wy] y [ij] [uz] b [tz] j [yz] 
+b z j z b z j z 
+[6ey] y [ij] [uz] b [yz] j [Tz] 
+b z j z b z [6j] z 
+[9yipd] [yipd] [ig] [uf] - [ts] - [yipd] 
+[4q] [5w] [4q] [30] 9 [30] 9 8 
+[^yipd] [yipd] [ig] [uf] - [ts] - [yipd] 
+9 [30] 9 8 ^ 8 ^ 6 
+[P5yod] [Pyod] [ig] [uf] - [ts] - [Pyod] 
+[^E] [8t] [^E] [6e] [5w] [6e] [5w] [4q] 
+[TS6up] [TSup] [uf] [yd] - [TS] - [S3pfj] 
+6 | [9z]-d-[8l]-s-[^J]-P-[6j]-p-
+[yipd] 9 [qey] 9 [S6ipg] [qyd] [Te] [qyd] 
+[yipd] [9pj] [qeypj] [9pdgj] [6pdgj] q [Teig] [quf] 
+[yipd] 9 [qe] 9 [6ipdg] [qyd] [Te] [qyd] 
+[^yipd] [^pj] [E9qpdgj] [^pdgj] [8dz] [tsl]-w-[PJ0]-8-[5pj]-3-
+[yip] 9 [qey] 9 [S6ipg] [qyd] [Te] [qyipd] 
+[yipd] [9pj] [qepj] [9pdgj] [6pdgj] q [etig] [quf] 
+[^yipd] ^ [E9qdz] ^ [8yod] 8 [0wtdhz] 8 
+[qyipd] [9dz]-6-[4dz]--[dz] [9dgjz] [8sl] [^PJ] [6dz]-[fx]-
+[gc] [9fx] [qeyhv] [9gc] [6jb] [qhv] [TJe] [qjb] 
+[hv] [9jb] [qeygc] [9fx] [6gc] [qjb] [Tefc] [qjb] 
+[dz] [9pj] [qeydz] [9fx] [6gc] [qpj] [Tefx] [qpj] 
+[9dz] [9pj] [qeydz] [9pj] [6edz] [sl] [Ej] e 
+[yc] p [iv] [px] e [ic] T [iz] 
+y [px] i [Jp] e [ij] T [ij] 
+[yc] p [iv] [px] e [ic] T [iz] 
+E i p i t [os] [Puj] p 
+[yc] p [iv] [px] e [ic] T [iz] 
+y [px] i [Jp] e [ij] T i 
+[yipg] [yip] j [Teif] [Tei] [ij] e [9yipd] |
+[(Z]-D-[*L]-S-[7k]-a-[^J]-P-
+[YID] ( [QE] ( [IPG] [*YID] [Wq] [*YD] 
+[YIPD] [PDGJ7] [QPDGJr] [PDGJ7] [^PSGJ] ^ [QEIG] [^ig] 
+[%YIDa] % [(r] % [$IPDG] [(YIPD] [QE] [(YD] 
+[YOD4a] [PDJqg] [WYPDJrg] [Jqag] [^J]-k-[^H]-J-[EGq]-H-[^g]-G-
+[YID] ( [QE] ( [IPDG] [*YID] [Wq] [*YD] 
+[YIPD] [PDGJ7] [QPDGJr] [PDGJ7] [^PSGJ] ^ [QEIG] [^ig] 
+[%YIDa] % [(DGZrk] % [^YOPD] ^ [EDHJZq] ^ 
+[YIPD] [^EDGJZ] [DGJZ7r] [%WDGJZ] [^EDGJZ] [$Q] [%WPDGJ] [4q] 
+[YIPD] [(PJ] [QE] [(ak] [*OH] [WTq] [*PJ] 
+[YIPD7] [PJ7] [Qr] [7ak] ^ [^OH] [QE] [^PJ] 
+[%YIDa] [%PJ] [(r] [%ak] $ [(OH] [QE] [(PJ] 
+4 [IGq] [WYr] [OHq] ^ [^ig] [E9q] [^IG] 
+[YIPD] [(D]-P-[QEI]-Y-[(I]-P-[ig]-S-[*O]-i-[WPJq]-g-[*S]-P-
+[OH7]-D-a-O-[QGCr]-Z-[J7]-G-[^HLgc] [^DZ] [ESLq] [^PJ] 
+[%DZ]-k-[%G]-D-[(SLr]-k-[%G]-S-[^PJ]-g-[^S]-P-[ESLq]-H-[^g]-S-
+[(DGJZ] (-Q-[EZ]-[(J]-[QG]-[ED]-[YJ]-[EG]-[QD]-[(P]-[^D]-[$G]-J-L-
+[DZ7] 7 [QDGJZr] 7 [*PJ] [*OH] [WIGq] * 
+[(ig]-S-[(P]-i-[QEP]-i-[(P]-S-[^IPSG] ^ [EPSqig] [^J]-L-
+[DZ7] 7 [QZCr] 7 [*DGZ] * [WTZV] * 
+[(DGJZ] [(ZC] [YZC]-E-[QZC]-(-[^ZC]-$---- -
+[3ud] [ud] [Si] [Si] [ud] [ud] [Si] [S3i] 
+[3ud] [ud] [Si] [Si] [udfj] [ud] [Si] [Si] 
+[3ud] [ud] [Si] [Si] [ud] [ud] [Si] [S3i] 
+[3ud] [ud] [Si] [Si] [udfj] [ud] [Si] [Si] 
+[3ud] [ud] [Si] [Si] [ud] [ud] [Si] [S3i] 
+[3ud] [ud] [Si] [Si] [udfj] [ud] [Si] [Si] 
+[^EPJ] [6epj] [5woh] [6epj] [5woh] [4qig] [5woh] [4qig] 
+[30uf] [4qig] [30uf] [9yd] [30uf] [*TS] [yipd] -
